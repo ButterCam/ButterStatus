@@ -1,17 +1,20 @@
-title: Demo System Status
-name: demo_with_statusfy
+title: 服务状态
+name: butter_status
 description: ""
-defaultLocale: en
-baseUrl: "https://statusfy.higan.me"
+defaultLocale: zh-cn
+baseUrl: "https://status.butterapis.com"
 locales:
-  - code: en
-    iso: en-US
-    name: English
-    file: en.json
+  - code: zh-cn
+    iso: zh-CN
+    name: 中文
+    file: zh-cn.json
 content:
-  frontMatterFormat: json
+  frontMatterFormat: yaml
   systems:
     - cdn
-    - conversions
-    - web
-    - api
+    - account
+    - user
+    - post
+    - template
+    - shop
+    - feed

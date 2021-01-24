@@ -1,0 +1,122 @@
+{
+  "title": "服务状态",
+  "description": "",
+  "labels": {
+    "contact": "联系我们",
+    "support": "支持服务",
+    "home": "主页",
+    "powered-by": "Powered by",
+    "legal": "用户协议",
+    "privacy": "隐私协议"
+  },
+  "statuses": {
+    "under-maintenance": "系统正在维护",
+    "degraded-performance": "性能问题",
+    "partial-outage": "服务部分中断",
+    "major-outage": "重大事故",
+    "operational": "正常运行"
+  },
+  "dates": {
+    "formats": {
+      "short": "YYYY-MM-DD",
+      "long": "MM-DD HH:mm UTC",
+      "month": "YYYY-MM"
+    }
+  },
+  "incidents": {
+    "incidents": "突发事件",
+    "incident": "突发事件",
+    "scheduled": "定期维护",
+    "incidents-history": "突发事件历史",
+    "incidents-history-description": "查看服务的突发事件历史。",
+    "incidents-history-days-since-latest": "1 day since last incident | {days} days since last incident",
+    "latest-incidents": "最新事件",
+    "current-status": "当前状态",
+    "current-status-description": "Keep up to date with real-time and historical interruptions to our service which may be affecting you.",
+    "no-incidents": "没有发生任何事件。",
+    "resolved": "已解决",
+    "unresolved": "进行中",
+    "paginator": {
+      "previous": "上一页",
+      "next": "下一页",
+      "page": "页数"
+    },
+    "collapse": {
+      "show": "查看全部 {count} 条突发事件",
+      "hide": "仅展示最近的突发事件"
+    }
+  },
+  "error": {
+    "go-back-link": "返回主页",
+    "404": {
+      "title": "404 Not Found",
+      "description": "Oops! 找不到你在寻找的页面"
+    },
+    "other": {
+      "title": "错误",
+      "description": "非常抱歉，"
+    }
+  },
+  "systems": {
+    "items": {
+      "cdn": {
+        "title": "CDN",
+        "description": "图片与文件静态资源"
+      },
+      "account": {
+        "title": "账户服务",
+        "description": "账户登录与注册服务"
+      },
+      "user": {
+        "title": "用户服务"
+      },
+      "post": {
+        "title": "图片与内容服务"
+      },
+      "template": {
+        "title": "模板服务",
+        "description": "模板"
+      },
+      "shop": {
+        "title": "商店服务",
+        "description": "商店、购买与订单服务"
+      },
+      "feed": {
+        "title": "时间线服务",
+        "description": "关注流与时间线服务"
+      }
+    }
+  },
+  "notifications": {
+    "title": "订阅服务状态更新",
+    "description": "从下面的服务中选择用于订阅更新的服务。",
+    "buttons": {
+      "subscribe": "订阅",
+      "close": "关闭"
+    },
+    "items": {
+      "icalendar": {
+        "title": "Calendar",
+        "description": "Receive <strong>Scheduled Maintenances</strong> via <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">iCalendar</a>."
+      },
+      "feeds": {
+        "title": "Feeds",
+        "description": "Get <a href=\"{atom_url}\" target=\"_blank\" rel=\"noopener\">the Atom Feed</a> or <a href=\"{rss_url}\" target=\"_blank\" rel=\"noopener\">the RSS Feed</a>."
+      },
+      "twitter": {
+        "title": "Twitter",
+        "description": "or <a href=\"https://twitter.com/{username}\" target=\"_blank\" rel=\"noopener\">view our Profile</a>."
+      },
+      "support": {
+        "title": "Support",
+        "description": "Visit our <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">Support Site</a>."
+      },
+      "webpush": {
+        "title": "Push",
+        "description": "Notifications delivered to your browser.",
+        "enable": "Enable Notifications",
+        "enabled": "Notifications are enabled for this browser."
+      }
+    }
+  }
+}
