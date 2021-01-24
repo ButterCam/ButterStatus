@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.butterapis.com//calendar//scheduled//ZH-CN
+NAME:服务状态
+X-WR-CALNAME:服务状态
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR

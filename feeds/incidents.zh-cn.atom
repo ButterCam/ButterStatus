@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.butterapis.com</id>
+    <title>服务状态</title>
+    <updated>2021-01-24T13:10:00.240Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.butterapis.com"/>
+    <link rel="self" href="https://status.butterapis.com/feeds/incidents.zh-cn.atom"/>
+</feed>
