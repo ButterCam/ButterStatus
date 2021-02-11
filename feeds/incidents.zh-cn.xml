@@ -4,10 +4,19 @@
         <title>服务状态</title>
         <link>https://status.butterapis.com</link>
         <description></description>
-        <lastBuildDate>Tue, 09 Feb 2021 04:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 09:59:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.butterapis.com/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[服务响应缓慢]]></title>
+            <link>https://status.butterapis.com/incidents/268525f2</link>
+            <guid>https://status.butterapis.com/incidents/268525f2</guid>
+            <pubDate>Thu, 11 Feb 2021 09:57:56 GMT</pubDate>
+            <description><![CDATA[收到关于服务响应缓慢的报告，我们正在调查造成事故的原因。]]></description>
+            <content:encoded><![CDATA[<p>收到关于服务响应缓慢的报告，我们正在调查造成事故的原因。</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[图片服务不可用]]></title>
             <link>https://status.butterapis.com/incidents/758ed60a</link>
