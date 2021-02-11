@@ -4,7 +4,7 @@
         <title>服务状态</title>
         <link>https://status.butterapis.com</link>
         <description></description>
-        <lastBuildDate>Thu, 11 Feb 2021 09:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 10:06:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.butterapis.com/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,13 @@
             <pubDate>Thu, 11 Feb 2021 09:57:56 GMT</pubDate>
             <description><![CDATA[收到关于服务响应缓慢的报告，我们正在调查造成事故的原因。]]></description>
             <content:encoded><![CDATA[<p>收到关于服务响应缓慢的报告，我们正在调查造成事故的原因。</p>
+<div class="update-block">
+          <div class="update-block-date">2021-02-11T10:04:33.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">更新</div>
+            <div class="update-block-body">
+<p>通过监控发现，是由于服务器压力陡增导致处理缓慢，已经扩容了相关服务器，正在观察变化。</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
