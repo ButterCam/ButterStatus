@@ -6,6 +6,7 @@ modified: '2021-04-19T08:53:44Z'
 scheduled: '2021-04-22T18:00:00Z'
 duration: '180'
 severity: under-maintenance
+resolved: true
 affectedsystems:
   - post
   - account
@@ -18,4 +19,8 @@ affectedsystems:
 
 ::: update 开始 | 2021-04-22T18:00:00Z
 已经开始停机维护
+:::
+
+::: update 结束 | 2021-04-22T20:00:00Z
+服务已经恢复正常
 :::
