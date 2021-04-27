@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.butterapis.com</id>
     <title>服务状态</title>
-    <updated>2021-04-22T20:05:36.203Z</updated>
+    <updated>2021-04-27T11:32:52.415Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.butterapis.com"/>
     <link rel="self" href="https://status.butterapis.com/feeds/incidents.zh-cn.atom"/>
+    <entry>
+        <title type="html"><![CDATA[部分服务响应缓慢]]></title>
+        <id>https://status.butterapis.com/incidents/122b8368</id>
+        <link href="https://status.butterapis.com/incidents/122b8368"/>
+        <updated>2021-04-27T11:31:27.000Z</updated>
+        <summary type="html"><![CDATA[收到了关于部分服务响应缓慢的问题，我们正在调查。]]></summary>
+        <content type="html"><![CDATA[<p>收到了关于部分服务响应缓慢的问题，我们正在调查。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据库维护计划]]></title>
         <id>https://status.butterapis.com/incidents/b2b21014</id>
