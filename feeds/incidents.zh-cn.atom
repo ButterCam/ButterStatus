@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.butterapis.com</id>
     <title>服务状态</title>
-    <updated>2021-07-08T00:09:46.617Z</updated>
+    <updated>2021-07-09T00:09:07.297Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.butterapis.com"/>
     <link rel="self" href="https://status.butterapis.com/feeds/incidents.zh-cn.atom"/>
